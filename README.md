@@ -1,8 +1,5 @@
 ### Hi,I'm Abdelhakim. 👋
 
-<!--
-**HowkMii/Howkmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm web developer and Ux Designer, skilled in React ,Node.js , Ruby and soft Ui integration.
 I create clean, professional, functional websites. I enjoy turning complex problems into simple, beautiful and intuitive designs and i also enjoy crafting brand identities, icons, and illustration work. When I'm not coding, you'll find me Studying , Look for what's new or Sleeping.
 
