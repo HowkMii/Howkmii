@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... keep studying
 -->
+<p align="center">
+  <img src="https://github.com/HowkMii/Howkmii/blob/master/github.gif" width=100>
+</p>
