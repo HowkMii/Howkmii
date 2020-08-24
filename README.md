@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/HowkMii/Howkmii/blob/master/github.gif" width=100>
 </p>
+<p align='center'>
+<a href="https://www.linkedin.com/in/howkmii/"><img height="26" src="https://github.com/HowkMii/Howkmii/blob/master/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@HowkMii"><img height="26" src="https://github.com/HowkMii/Howkmii/blob/master/medio.png" alt=""></a>&nbsp;&nbsp;
+<a href="https://dev.to/howkmii"><img height="25" src="https://github.com/HowkMii/Howkmii/blob/master/dev.png" alt=""></a>&nbsp;&nbsp;
+<a href="https://howkmii.github.io/howkmii_folioo/"><img height="27" src="https://github.com/HowkMii/Howkmii/blob/master/external.png" alt=""></a>&nbsp;&nbsp;
+<a href="abdelhakim@univ-tiaret.dz"><img height="22" src="https://github.com/HowkMii/Howkmii/blob/master/mail.png" alt=""></a>
+</p>
