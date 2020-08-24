@@ -9,12 +9,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Open Coding club and Developer student club
 - 🌱 I’m currently learning ...Data Science
 - 💬 Ask me about ... UX Design 
-- 📫 How to reach me: ... [twitter](https://twitter.com/HowkMii)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... keep studying
 -->
 <p align="center">
   <img src="https://github.com/HowkMii/Howkmii/blob/master/github.gif" width=100>
+</p>
+<p align="center">
+  - 📫 How to reach me:
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/howkmii/"><img height="26" src="https://github.com/HowkMii/Howkmii/blob/master/linkedin.png"></a>&nbsp;&nbsp;
