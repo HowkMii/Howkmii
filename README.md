@@ -6,7 +6,8 @@ I create clean, professional, functional websites. I enjoy turning complex probl
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Open Coding club and Developer student club.
+- 🍀 I’m currently working on ...Musketeers.
+- 💪 Developer student club Open and  Coding club.
 - 🌱 I’m currently learning ...Data Science
 - 💬 Ask me about ... UX Design 
 - 😄 Pronouns: He/Him
