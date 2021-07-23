@@ -1,8 +1,6 @@
 ### Hi,I'm Abdelhakim. 👋
 <img src="https://github.com/HowkMii/Howkmii/blob/master/howkmiz.png">
 
-I'm web developer and Ux Designer, skilled in Flutter, Kotlin, React ,Ruby and soft Ui integration.
-I create clean, professional, functional websites. I enjoy turning complex problems into simple, beautiful and intuitive designs and i also enjoy crafting brand identities, icons, and illustration work. When I'm not coding, you'll find me Studying , Look for what's new or Sleeping.
 
 Here are some ideas to get you started:
 
