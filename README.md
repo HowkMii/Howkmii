@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🍀 I’m currently working on ...Musketeers.
 - 💪 Developer student club Open and  Coding club.
-- 🌱 I’m currently learning ...Data Science
+- 🌱 I’m currently learning ...ML Academy Training Program.
 - 💬 Ask me about ... UX Design 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... keep studying
