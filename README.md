@@ -1,17 +1,17 @@
 ### Hi,I'm Abdelhakim. 👋
-<img src="https://github.com/HowkMii/Howkmii/blob/master/howkmiz.png">
+<!--<img src="https://github.com/HowkMii/Howkmii/blob/master/howkmiz.png">-->
 
 
 Here are some ideas to get you started:
 
 - 🍀 I’m currently working as a ...Freelancer.
 - 💪 Software Engineer
-- 🌱 I’m currently reading ...REST API Development using Node.js
+- 🌱 I’m currently reading ...Modern Software Engineering: Doing What Works to Build Better Software Faster
 - 💬 Ask me about ... UX Design, Back-end Development, DeepLearning. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... keep studying
--->
 
+<!--
 <p align="center">
   - 📫 How to reach me:
 </p>
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://dev.to/howkmii"><img height="25" src="https://github.com/HowkMii/Howkmii/blob/master/dev.png" alt=""></a>&nbsp;&nbsp;
 <a href="https://howkmii.netlify.app//"><img height="27" src="https://github.com/HowkMii/Howkmii/blob/master/external.png" alt=""></a>&nbsp;&nbsp;
 <a href="https://github.com/HowkMii/email/blob/main/README.md"><img height="22" src="https://github.com/HowkMii/Howkmii/blob/master/mail.png" alt=""></a>
-</p>
+</p>-->
